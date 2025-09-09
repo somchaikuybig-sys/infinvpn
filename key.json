@@ -12,5 +12,12 @@
     "password": "pass2",
     "expiresAt": "2025-11-30",
     "allowOffline": false
+  },
+  {
+    "id": "2156f9bc471792c9",
+    "username": "iMod",
+    "password": "12345",
+    "expiresAt": "2025-09-15",
+    "allowOffline": true
   }
 ]
